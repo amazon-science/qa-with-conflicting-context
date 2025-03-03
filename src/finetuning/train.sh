@@ -1,0 +1,1 @@
+autotrain llm --train --project-name llama3_8b_ft_context --model microsoft/Phi-3-small-8k-instruct --data-path . --use-peft --int4 --learning-rate 2e-4 --train_batch_size 4 --num_train_epochs 3 --trainer sft --model_max_length 1024
