@@ -171,7 +171,7 @@ urllib3==1.26.16
 uvicorn==0.23.2
 wandb==0.15.5
 websockets==11.0.3
-Werkzeug==2.3.6
+Werkzeug==3.0.6
 xformers==0.0.21
 xxhash==3.2.0
 yarl==1.9.2
