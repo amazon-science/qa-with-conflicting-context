@@ -5,5 +5,5 @@ numpy==1.24.4
 pandas==2.0.3
 peft==0.4.0
 text-generation==0.6.0
-tqdm==4.65.0
+tqdm==4.66.3
 transformers @ git+https://github.com/huggingface/transformers.git@1982dd3b15867c46e1c20645901b0de469fd935f
